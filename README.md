@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-signed-integer-ctors@esm/index.mjs';
+import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-signed-integer-ctors@v0.1.0-esm/index.mjs';
 ```
 
 #### ctors( dtype )
@@ -104,7 +104,7 @@ var ctor = ctors( 'int' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-signed-integer-dtypes@esm/index.mjs';
-import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-signed-integer-ctors@esm/index.mjs';
+import ctors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-signed-integer-ctors@v0.1.0-esm/index.mjs';
 
 var DTYPES = dtypes();
 var ctor;
