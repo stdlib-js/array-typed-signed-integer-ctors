@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-typed-signed-integer-ctors",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Signed integer typed array constructors.",
   "license": "Apache-2.0",
   "author": {
@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-int16": "^0.1.1",
-    "@stdlib/array-int32": "^0.1.1",
-    "@stdlib/array-int8": "^0.1.1"
+    "@stdlib/array-int16": "^0.2.0",
+    "@stdlib/array-int32": "^0.2.0",
+    "@stdlib/array-int8": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-typed-signed-integer-dtypes": "^0.1.1",
