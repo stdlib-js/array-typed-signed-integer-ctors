@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-typed-signed-integer-ctors",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Signed integer typed array constructors.",
   "license": "Apache-2.0",
   "author": {
@@ -39,11 +39,11 @@
   "dependencies": {
     "@stdlib/array-int16": "^0.2.1",
     "@stdlib/array-int32": "^0.2.1",
-    "@stdlib/array-int8": "^0.2.1"
+    "@stdlib/array-int8": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-typed-signed-integer-dtypes": "^0.2.1",
-    "@stdlib/assert-is-function": "^0.2.1",
+    "@stdlib/assert-is-function": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
